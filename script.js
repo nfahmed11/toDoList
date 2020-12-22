@@ -51,7 +51,7 @@ function runLoop() {
         break;
     }
 
-    action = prompt("What would you like to do?");
+    action = prompt("What would you like to do, punk?");
 
     }
 
