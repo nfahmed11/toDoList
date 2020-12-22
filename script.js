@@ -59,7 +59,7 @@ function runLoop() {
 
 
 }
-console.log("Exit To Do List");
+console.log("Exit To Do List!!!");
 
 
 function paintList() {
